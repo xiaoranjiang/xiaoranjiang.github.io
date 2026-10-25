@@ -1,12 +1,9 @@
 ---
-title: "Teaching"
 collection: teaching
-type: "master course"
 permalink: /teaching/
-location: "City, Country"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
+I mainly teach in the domain of multimedia signal processing and deep learning. 
 
 Current Teaching
 ======
