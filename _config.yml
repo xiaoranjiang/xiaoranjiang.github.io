@@ -23,7 +23,7 @@ repository               : "xiaoranjiang/xiaoranjiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/xiaoran-jiang.jpg"
+  avatar           : "/images/xiaoran-jiang.jpg"
   name             : "Xiaoran JIANG"
   pronouns         : # example: "she/her"  
   bio              : "Maître de Conférences"
