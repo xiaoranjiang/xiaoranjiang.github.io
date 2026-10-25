@@ -1,12 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xiaoran JIANG"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am an Associate Professor working in Multimedia Team within IDS (Image, Data, Signal) Department at Télécom Paris.
+My current research interests include 2D/3D image and video compression, computer vision, computational imaging, and frugal AI for multimedia signal processing. I am particularly interested in developing compact and effective representations of 2D and 3D visual data for efficient transmission and storage, as well as for solving a variety of inverse problems. I am also interested in bridging conventional visual compression frameworks with novel learning-based approaches while maintaining low computational complexity.
+
+Before joining Télécom Paris, I received the Engineering degree and the Ph.D. degree from IMT Atlantique (Télécom Bretagne) in 2010 and 2014, respectively. I was a post-doc and then junior researcher with INRIA (Institut National de Recherche en Informatique et en Automatique) Rennes. From 2022 to 2026, I worked as an Associate Professor with Electronics Department at INSA (Institut National des Sciences Appliquées) Rennes. 
+
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -54,3 +61,5 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
