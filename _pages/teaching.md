@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/
 ---
 
-I mainly teach in the domain of multimedia signal processing and deep learning. 
+My teaching focuses primarily on multimedia signal processing and deep learning.
 
 ## Télécom Paris, France (2026 - )
 ### Engineering Degree Program
