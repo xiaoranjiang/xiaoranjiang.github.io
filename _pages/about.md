@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoran JIANG"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 I am an Associate Professor working in Multimedia Team within IDS (Image, Data, Signal) Department at Télécom Paris.
 My current research interests include 2D/3D image and video compression, computer vision, computational imaging, and frugal AI for multimedia signal processing. I am particularly interested in developing compact and effective representations of 2D and 3D visual data for efficient transmission and storage, as well as for solving a variety of inverse problems. I am also interested in bridging conventional visual compression frameworks with novel learning-based approaches while maintaining low computational complexity.
 
-I received the Engineering degree and the Ph.D. degree from IMT Atlantique (Télécom Bretagne) in 2010 and 2014, respectively, supervised by Prof. [Claude Berrou] (https://fr.wikipedia.org/wiki/Claude_Berrou). From 2016, I worked as a post-doc researcher and then held a Starting Research Position within SIROCCO Team, led by Prof. [Christine Guillemot] (https://people.rennes.inria.fr/Christine.Guillemot/), at INRIA (Institut National de Recherche en Informatique et en Automatique) Rennes. I worked also as an Associate Professor with Electronics Department at INSA (Institut National des Sciences Appliquées) Rennes, before joining Télécom Paris in 2026. 
+I received the Engineering degree and the Ph.D. degree from IMT Atlantique (Télécom Bretagne) in 2010 and 2014, respectively, supervised by Prof. [Claude Berrou](https://fr.wikipedia.org/wiki/Claude_Berrou). From 2016, I worked as a post-doc researcher and then held a Starting Research Position within SIROCCO Team, led by Prof. [Christine Guillemot](https://people.rennes.inria.fr/Christine.Guillemot/), at INRIA (Institut National de Recherche en Informatique et en Automatique) Rennes. I worked also as an Associate Professor with Electronics Department at INSA (Institut National des Sciences Appliquées) Rennes, before joining Télécom Paris in 2026. 
 
 
 <!--
