@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "master course"
+permalink: /teaching
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+#This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Current Teaching
 ======
+## Télécom Paris
+- Introduction to Deep Learning (M1)
 
-Heading 2
-======
+## Université Paris-Saclay 
+### M2 Multimedia Networking
+- Multimedia Compression (M2)
+- Advanced Compression (M2)
 
-Heading 3
+
+Previous Teaching
 ======
+## INSA Rennes
+- Signal Processing (L3)
+- Probability (L3)
+- Image Analysis (M1)
+- Embedded Artificial Intelligence (M1)
+
