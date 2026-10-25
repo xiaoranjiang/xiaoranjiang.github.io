@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Maître de Conférences"
   location         : "France"
-  employer         : "Télécom Paris, Institut Polytechnique de Paris"
+  employer         : "Télécom Paris"
+  employer         : "Institut Polytechnique de Paris"
   uri              : # URL
   email            : "xiaoran.jiang@telecom-paris.fr" 
 
