@@ -5,7 +5,6 @@ permalink: /teaching/
 
 I mainly teach in the domain of multimedia signal processing and deep learning. 
 
-======
 Current Teaching
 ======
 ## Télécom Paris, France
@@ -16,7 +15,7 @@ Current Teaching
 - Multimedia Compression (M2)
 - Advanced Compression (M2)
 
-======
+
 Previous Teaching
 ======
 ## INSA Rennes, France
