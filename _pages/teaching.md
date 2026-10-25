@@ -9,6 +9,9 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 ## Télécom Paris, France (2026 - )
 ### Engineering Degree Program
 - Introduction to Deep Learning (M1)
+<span style="background-color: #FCE4D6; padding: 2px 4px;">
+  Co-Responsible
+</span>
 
 ## Université Paris-Saclay, France (2026 - )
 ### M2 Multimedia Networking
