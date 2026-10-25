@@ -8,7 +8,7 @@ I mainly teach in the domain of multimedia signal processing and deep learning.
 Current Teaching
 ======
 ## Télécom Paris, France
-### Engineering degree program
+### Engineering Degree Program
 - Introduction to Deep Learning (M1)
 
 ## Université Paris-Saclay, France
