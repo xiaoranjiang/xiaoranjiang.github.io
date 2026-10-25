@@ -2,7 +2,7 @@
 title: "Teaching"
 collection: teaching
 type: "master course"
-permalink: /teaching
+permalink: /teaching/
 location: "City, Country"
 ---
 
@@ -10,10 +10,10 @@ location: "City, Country"
 
 Current Teaching
 ======
-## Télécom Paris
+## Télécom Paris, France
 - Introduction to Deep Learning (M1)
 
-## Université Paris-Saclay 
+## Université Paris-Saclay, France
 ### M2 Multimedia Networking
 - Multimedia Compression (M2)
 - Advanced Compression (M2)
@@ -21,7 +21,7 @@ Current Teaching
 
 Previous Teaching
 ======
-## INSA Rennes
+## INSA Rennes, France
 - Signal Processing (L3)
 - Probability (L3)
 - Image Analysis (M1)
