@@ -15,10 +15,13 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 - MN907 Multimedia Compression (M2)
 - MN909 Deep Learning for Multimedia (M2)
 - MN910 Advanced Compression (M2)
+<span style="background-color: #fff3b0; padding: 2px 4px;">
+  Responsible
+</span>
 
 ## INSA Rennes, France (2022 - 2026)
 - Signal Processing (L3)
 - Probability (L3)
 - Image Analysis (M1)
-- Embedded Artificial Intelligence (M1)
+- Embedded Artificial Intelligence (M1) : Responsible
 
