@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
 My teaching focuses primarily on multimedia signal processing and deep learning.
