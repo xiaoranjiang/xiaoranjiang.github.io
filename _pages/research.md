@@ -17,7 +17,7 @@ You can find my publications on <a href="https://scholar.google.com/citations?us
 *Modeling and compression of videos using 3D Gaussians*
 - Massimo EYNARD, 2025-2028, CIFRE with Ateme<br>
 *Video compression for high-quality immersive applications*
-- Florent Mussard, 2026-2029<br>
+- Florent MUSSARD, 2026-2029<br>
 *Frugal and Embedded Data Compression for Machine Vision based on Genetic Reinforcement Learning*
 
 
