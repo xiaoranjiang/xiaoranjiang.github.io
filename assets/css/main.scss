@@ -160,21 +160,19 @@
   }
 }
 
-/* Reduce top whitespace on mobile */
+/* Reduce space between navigation bar and profile row on mobile */
 @media screen and (max-width: 1024px) {
-  #main {
-    padding-top: 1em !important;
-  }
-
-  .page {
-    padding-top: 0 !important;
-  }
-
   .masthead {
     margin-bottom: 0 !important;
   }
 
-  .initial-content {
+  #main {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  .sidebar {
+    margin-top: 0 !important;
     padding-top: 0 !important;
   }
 }
