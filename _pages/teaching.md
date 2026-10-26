@@ -33,5 +33,5 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 </span>
 - Innovative Technologies Project (M2)
 <span style="background-color: #FDECEC; padding: 2px 4px; border-radius: 5px;">
-  Responsible
+  Co-Responsible
 </span>
