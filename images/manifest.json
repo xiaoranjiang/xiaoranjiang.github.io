@@ -9,6 +9,7 @@ permalink: /images/manifest.json
 	"start_url": "{{ site.baseurl | default: '/' }}",
 	"lang": {{ site.locale | default: "en" | jsonify }},
 	"icons": [
+		{% comment %}
 		{
 			"src": "/images/favicon-192x192.png",
 			"sizes": "192x192",
@@ -19,6 +20,7 @@ permalink: /images/manifest.json
 			"sizes": "512x512",
 			"type": "image/png"
 		},
+		{% endcomment %}
 		{
 			"src": "/images/favicon-compression-256x256.png",
 			"sizes": "256x256",
