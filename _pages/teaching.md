@@ -6,14 +6,14 @@ author_profile: true
 
 My teaching focuses primarily on multimedia signal processing and deep learning.
 
-<span style="color: #2457A7;">## Télécom Paris, France (2026 - )</span> 
+## <span style="color: #2457A7;">Télécom Paris, France (2026 - )</span> 
 ### Engineering Degree Program
 - Introduction to Deep Learning (M1)
 <span style="background-color: #FCE4D6; padding: 2px 4px;">
   Co-Responsible
 </span>
 
-<span style="color: #2457A7;">## Université Paris-Saclay, France (2026 - )</span> 
+## <span style="color: #2457A7;">Université Paris-Saclay, France (2026 - )</span> 
 ### M2 Multimedia Networking
 - MN907 Multimedia Compression (M2)
 - MN909 Deep Learning for Multimedia (M2)
@@ -22,7 +22,7 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
   Responsible
 </span>
 
-<span style="color: #2457A7;">## INSA Rennes, France (2022 - 2026)</span> 
+## <span style="color: #2457A7;">INSA Rennes, France (2022 - 2026)</span> 
 ### Engineering Degree Program
 - Signal Processing (L3)
 - Probability (L3)
