@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an A/Prof. working in [Multimedia Team](https://mm.telecom-paris.fr/) of IDS (Image, Data, Signal) Department, and LTCI (Laboratoire de Traitement et Communication de l'Information) Laboratory at [Télécom Paris](https://www.telecom-paris.fr). 
+I am an A/Prof. working in <a href="https://mm.telecom-paris.fr/" class="custom-link">Multimedia Team</a> of IDS (Image, Data, Signal) Department, and LTCI (Laboratoire de Traitement et Communication de l'Information) Laboratory at [Télécom Paris](https://www.telecom-paris.fr). 
 I am particularly interested in 2D/3D visual data compression, frugal AI for multimedia signal processing, computational imaging and 3D vision. 
 
 I received the Engineering degree and the Ph.D. degree from [IMT Atlantique (Télécom Bretagne)](https://www.imt-atlantique.fr/) in 2010 and 2014, respectively, supervised by Prof. [Claude Berrou](https://fr.wikipedia.org/wiki/Claude_Berrou). From 2016, I worked as a post-doc researcher and then held a Starting Research Position within [SIROCCO Team](https://team.inria.fr/sirocco/fr/), led by Prof. [Christine Guillemot](https://people.rennes.inria.fr/Christine.Guillemot/), at [INRIA](https://www.inria.fr/en) (Institut National de Recherche en Informatique et en Automatique) Rennes. I worked also as an A/Prof. with Electronics Department at [INSA](https://www.insa-rennes.fr/) (Institut National des Sciences Appliquées) Rennes, before joining Télécom Paris in 2026. 
