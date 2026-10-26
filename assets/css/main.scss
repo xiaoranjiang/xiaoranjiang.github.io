@@ -146,3 +146,30 @@
     margin: 0 !important;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .author__urls-wrapper .author__urls {
+    gap: 0 !important;
+    column-gap: 4px !important;
+    padding: 0 !important;
+    margin: 8px 0 !important;
+  }
+
+  .author__urls-wrapper .author__urls li {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .author__urls-wrapper .author__urls li a {
+    padding: 4px !important;
+    margin: 0 !important;
+    width: auto !important;
+    min-width: 0 !important;
+  }
+
+  .author__urls-wrapper .author__urls li a i {
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 22px !important;
+  }
+}
