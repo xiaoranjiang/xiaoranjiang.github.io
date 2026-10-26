@@ -159,3 +159,22 @@
     padding: 0 !important;
   }
 }
+
+/* Reduce top whitespace on mobile */
+@media screen and (max-width: 1024px) {
+  #main {
+    padding-top: 1em !important;
+  }
+
+  .page {
+    padding-top: 0 !important;
+  }
+
+  .masthead {
+    margin-bottom: 0 !important;
+  }
+
+  .initial-content {
+    padding-top: 0 !important;
+  }
+}
