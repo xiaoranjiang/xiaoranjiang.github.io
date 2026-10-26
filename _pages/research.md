@@ -9,25 +9,24 @@ My current research interests include 2D/3D image and video compression, compute
 You can find my publications on <a href="https://scholar.google.com/citations?user=zvdY0EcAAAAJ&hl=en" class="custom-link">my Google Scholar profile</a>.
 
 ### Current PhD students
-- Théophile BLARD, 2023-2026<br>
-*Neural video coding with adaptation and competition*, in collaboration with Orange Innovation
+- Théophile BLARD, 2023-2026, CIFRE with Orange Innovation<br>
+*Neural video coding with adaptation and competition*
 - Oumaima BADI, 2024-2027<br>
 *Photorealistic human motion and style transfer using generative AI for improving sports training*
-- Matthieu GENDRIN, 2024-2027<br>
-*Modeling and compression of videos using 3D Gaussians*, in collaboration with Orange Innovation
-- Massimo EYNARD, 2025-2028<br>
-*Video compression for high-quality immersive applications*, in collaboration with Ateme
+- Matthieu GENDRIN, 2024-2027, CIFRE with Orange Innovation<br>
+*Modeling and compression of videos using 3D Gaussians*
+- Massimo EYNARD, 2025-2028, CIFRE with Ateme<br>
+*Video compression for high-quality immersive applications*
 - Florent Mussard, 2026-2029<br>
 *Frugal and Embedded Data Compression for Machine Vision based on Genetic Reinforcement Learning*
 
 
 ### Previous PhD students
-- Jinglei SHI, 2017-2020, currently lecturer in Nankai University, China<br>
+- Jinglei SHI (currently lecturer in Nankai University, China), 2017-2020<br>
 *Learning-based depth estimation from light field and view synthesis*
 - Idi BOUBACAR SANI, 2023-2026<br>
 *Deep learning methods for detecting ground movement*
-- Pierre JAFFUER, 2025-2026<br>
-*Low-complexity neural video coding*, in collaboration with Orange Innovation
-
+- Pierre JAFFUER, 2025-2026, CIFRE with Orange Innovation<br>
+*Low-complexity neural video coding*
 
 
