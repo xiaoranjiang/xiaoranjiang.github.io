@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My teaching focuses primarily on multimedia signal processing and deep learning.
+My teaching focuses primarily on multimedia signal processing and deep learning. I teach in both French and English. 
 
 ## <span style="color:#8B1E1E;">Télécom Paris, France (2026 - )</span> 
 ### Engineering Degree Program
