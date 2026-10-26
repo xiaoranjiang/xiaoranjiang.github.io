@@ -149,13 +149,16 @@
 
 @media screen and (max-width: 1024px) {
   .author__urls-wrapper .author__urls {
-    gap: 0 !important;
-    column-gap: 4px !important;
-    padding: 0 !important;
-    margin: 8px 0 !important;
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    column-gap: 10px !important;
+    width: max-content !important;
+    max-width: 100%;
   }
 
   .author__urls-wrapper .author__urls li {
+    flex: 0 0 auto !important;
     margin: 0 !important;
     padding: 0 !important;
   }
@@ -163,13 +166,5 @@
   .author__urls-wrapper .author__urls li a {
     padding: 4px !important;
     margin: 0 !important;
-    width: auto !important;
-    min-width: 0 !important;
-  }
-
-  .author__urls-wrapper .author__urls li a i {
-    padding: 0 !important;
-    margin: 0 !important;
-    font-size: 22px !important;
   }
 }
