@@ -10,7 +10,7 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 <p style="line-height: 1.1; margin-bottom: 1px;"><i>Engineering Degree Program</i></p>
 - Introduction to Deep Learning (M1)
 <span style="background-color: #FDECEC; padding: 2px 4px; border-radius: 5px;">
-  Co-Responsible
+  Coordinator
 </span>
 <p style="margin-bottom: 40px;"></p>
 
@@ -20,7 +20,7 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 - MN909 Deep Learning for Multimedia (M2)
 - MN910 Advanced Compression (M2)
 <span style="background-color: #FDECEC; padding: 2px 4px; border-radius: 5px;">
-  Responsible
+  Coordinator
 </span>
 <p style="margin-bottom: 40px;"></p>
 
@@ -31,9 +31,9 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 - Image Analysis (M1)
 - Embedded Artificial Intelligence (M1)
 <span style="background-color: #FDECEC; padding: 2px 4px; border-radius: 5px;">
-  Responsible
+  Coordinator
 </span>
 - Innovative Technologies Project (M2)
 <span style="background-color: #FDECEC; padding: 2px 4px; border-radius: 5px;">
-  Co-Responsible
+  Coordinator
 </span>
