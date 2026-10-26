@@ -22,7 +22,7 @@ You can find my publications on <a href="https://scholar.google.com/citations?us
 
 
 ### Previous PhD students
-- Jinglei SHI (currently lecturer in Nankai University, China), 2017-2020<br>
+- Jinglei SHI (now lecturer in Nankai University, China), 2017-2020<br>
 *Learning-based depth estimation from light field and view synthesis*
 - Idi BOUBACAR SANI, 2023-2026<br>
 *Deep learning methods for detecting ground movement*
