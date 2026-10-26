@@ -13,6 +13,7 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
   Co-Responsible
 </span>
 
+
 ### <span style="color:#8B1E1E;">Université Paris-Saclay, France (2026 - )</span> 
 *M2 Multimedia Networking*
 - MN907 Multimedia Compression (M2)
@@ -21,6 +22,7 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 <span style="background-color: #FDECEC; padding: 2px 4px; border-radius: 5px;">
   Responsible
 </span>
+
 
 ### <span style="color:#8B1E1E;">INSA Rennes, France (2022 - 2026)</span> 
 *Engineering Degree Program*
