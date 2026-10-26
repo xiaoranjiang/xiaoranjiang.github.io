@@ -1,9 +1,9 @@
 ---
-title: "Research"
-permalink: /research/
+title: "Collaborations"
+permalink: /collaborations/
 ---
 
-My current research interests include 2D/3D image and video compression, computer vision, computational imaging, and frugal AI for multimedia signal processing. I am particularly interested in developing compact and effective representations of 2D and 3D visual data for efficient transmission and storage, as well as for solving a variety of inverse problems. I am also interested in bridging conventional visual compression frameworks with novel learning-based approaches while maintaining low computational complexity.
+I particularly welcome research discussions related to data compression, frugal AI for multimedia applications, 3D vision and representation, and other closely related fields. A short message describing the scientific question, relevant background, and intended form of collaboration is particularly helpful. When reaching out, please include a brief description of the scientific question, relevant background, and potential form of collaboration.
 
 
 
