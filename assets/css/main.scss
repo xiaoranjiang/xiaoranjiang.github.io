@@ -92,3 +92,48 @@
   color: #8B1E1E;
   text-decoration: underline;
 }
+
+/* Mobile: show social icons directly, without the Follow button */
+@media screen and (max-width: 1024px) {
+  .author__urls-wrapper > button {
+    display: none !important;
+  }
+
+  .author__urls-wrapper .author__urls {
+    display: flex !important;
+    position: static !important;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    width: auto;
+    margin: 12px 0;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+    background: transparent;
+  }
+
+  /* Hide other contact entries on mobile */
+  .author__urls li {
+    display: none;
+  }
+
+  /* Show only LinkedIn and Google Scholar */
+  .author__urls li:has(a[href*="linkedin.com"]),
+  .author__urls li:has(a[href*="scholar.google"]) {
+    display: inline-flex;
+    margin: 0;
+  }
+
+  /* Display icons without text labels */
+  .author__urls li a {
+    font-size: 0;
+    padding: 6px;
+  }
+
+  .author__urls li a i {
+    font-size: 24px;
+    padding-right: 0;
+  }
+}
