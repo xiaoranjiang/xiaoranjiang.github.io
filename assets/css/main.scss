@@ -186,3 +186,21 @@
     top: 0 !important;
   }
 }
+
+/* Reduce the gap below the navigation bar on mobile */
+@media screen and (max-width: 767px) {
+  .masthead {
+    margin-bottom: 0 !important;
+  }
+
+  #main,
+  #main.page {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  #main .sidebar {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
