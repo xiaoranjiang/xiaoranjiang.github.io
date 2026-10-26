@@ -82,3 +82,13 @@
     line-height: 1.7;
   }
 }
+
+.custom-link {
+  color: #147D78;
+  text-decoration: none;
+}
+
+.custom-link:hover {
+  color: #0D5F5A;
+  text-decoration: underline;
+}
