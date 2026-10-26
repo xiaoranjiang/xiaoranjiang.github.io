@@ -28,6 +28,6 @@ permalink: /images/manifest.json
 			"src": "/images/favicon-compression-32x32.png",
 			"sizes": "32x32",
 			"type": "image/png"
-		},
+		}
 	]
 }
