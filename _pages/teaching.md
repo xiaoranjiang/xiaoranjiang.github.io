@@ -16,6 +16,9 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 
 ### <span style="color:#8B1E1E;">Université Paris-Saclay, France (2026 - )</span> 
 *M2 Multimedia Networking*
+p {
+  margin-bottom: 5px;
+}
 - MN907 Multimedia Compression (M2)
 - MN909 Deep Learning for Multimedia (M2)
 - MN910 Advanced Compression (M2)
@@ -26,6 +29,9 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 
 ### <span style="color:#8B1E1E;">INSA Rennes, France (2022 - 2026)</span> 
 *Engineering Degree Program*
+p {
+  margin-bottom: 5px;
+}
 - Signal Processing (L3)
 - Probability (L3)
 - Image Analysis (M1)
