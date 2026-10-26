@@ -160,18 +160,19 @@
   }
 }
 
-/* Reduce space between navigation bar and profile row on mobile */
+/* Adjust the gap below the navigation bar on mobile */
 @media screen and (max-width: 1024px) {
   .masthead {
-    margin-bottom: 0 !important;
+    margin-bottom: 8 !important;
   }
 
-  #main {
+  #main,
+  #main.page {
+    margin-top: 8 !important;
     padding-top: 0 !important;
-    margin-top: 0 !important;
   }
 
-  .sidebar {
+  #main .sidebar {
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
@@ -187,20 +188,4 @@
   }
 }
 
-/* Reduce the gap below the navigation bar on mobile */
-@media screen and (max-width: 1024px) {
-  .masthead {
-    margin-bottom: 0 !important;
-  }
 
-  #main,
-  #main.page {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-
-  #main .sidebar {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-}
