@@ -93,7 +93,7 @@
   text-decoration: underline;
 }
 
-/* Mobile: show social icons directly, without the Follow button */
+/* Mobile: show contact icons directly, without Follow */
 @media screen and (max-width: 1024px) {
   .author__urls-wrapper > button {
     display: none !important;
@@ -114,12 +114,13 @@
     background: transparent;
   }
 
-  /* Hide other contact entries on mobile */
+  /* Hide all contact entries by default */
   .author__urls li {
     display: none;
   }
 
-  /* Show only LinkedIn and Google Scholar */
+  /* Show Email, LinkedIn, and Google Scholar */
+  .author__urls li:has(a[href^="mailto:"]),
   .author__urls li:has(a[href*="linkedin.com"]),
   .author__urls li:has(a[href*="scholar.google"]) {
     display: inline-flex;
@@ -137,3 +138,5 @@
     padding-right: 0;
   }
 }
+
+  
