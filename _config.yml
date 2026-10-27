@@ -28,13 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A/Prof. @ Télécom Paris, IP Paris<br>A data compressor"
   location         : "France"
-  #employer         : "Télécom Paris<br>Institut Polytechnique de Paris<br>LTCI Laboratory"
-  employer         :
-  <div style="text-align: left; line-height: 1.4;">
-  Télécom Paris<br>
-  Institut Polytechnique de Paris<br>
-  LTCI Laboratory
-  </div>
+  employer         : "Télécom Paris<br>Institut Polytechnique de Paris<br>LTCI Laboratory"
   uri              : # URL
   email            : "xiaoran.jiang@telecom-paris.fr" 
 
