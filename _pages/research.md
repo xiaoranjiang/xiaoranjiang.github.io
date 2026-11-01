@@ -21,7 +21,7 @@ You can find my publications on <a href="https://scholar.google.com/citations?us
 *Frugal and embedded data compression for machine vision based on genetic reinforcement learning*
 
 
-### Previous PhD students
+### Former PhD students
 - Jinglei SHI (now lecturer in Nankai University, China), 2017-2020<br>
 *Learning-based depth estimation from light field and view synthesis*
 - Idi BOUBACAR SANI, 2023-2026<br>
