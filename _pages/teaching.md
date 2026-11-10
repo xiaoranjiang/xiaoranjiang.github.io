@@ -12,8 +12,8 @@ My teaching focuses primarily on multimedia signal processing and deep learning.
 <span style="background-color: #FDECEC; padding: 2px 4px; border-radius: 5px;">
   Coordinator
 </span>
-<p style="margin-bottom: 40px;"></p>
 - Projects: ARTEFACT, PRIM
+<p style="margin-bottom: 40px;"></p>
 
 ### <span style="color:#8B1E1E;">Université Paris-Saclay, France (2026 - )</span> 
 <p style="line-height: 1.1; margin-bottom: 1px;"><i>M2 Multimedia Networking</i></p>
