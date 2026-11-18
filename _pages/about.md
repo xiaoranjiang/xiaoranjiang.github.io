@@ -14,7 +14,8 @@ I received the Engineering degree and the Ph.D. degree from <a href="https://www
 
 News
 ======
-
+- Nov. 2026, our collaborative research project with A/Prof. Xi WANG (École Polytechnique, LIX) "ECOGEM: Extreme video COmpression with low complexity GEneration Modelling" is accepted and financed by Hi!PARIS. Stay tuned for upcoming opportunities!
+- Sept. 2026, I start a new chapiter in Télécom Paris as A/Prof. 
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
