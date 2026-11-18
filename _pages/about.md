@@ -12,6 +12,9 @@ I am particularly interested in 2D/3D visual data compression, frugal AI for mul
 
 I received the Engineering degree and the Ph.D. degree from <a href="https://www.imt-atlantique.fr/" class="custom-link">IMT Atlantique (Télécom Bretagne)</a> in 2010 and 2014, respectively, supervised by Prof. <a href="https://fr.wikipedia.org/wiki/Claude_Berrou" class="custom-link">Claude Berrou</a>. From 2016, I worked as a post-doc researcher and then held a Starting Research Position within <a href="https://team.inria.fr/sirocco/fr/" class="custom-link">SIROCCO Team</a>, led by Prof. <a href="https://people.rennes.inria.fr/Christine.Guillemot/" class="custom-link">Christine Guillemot</a>, at <a href="https://www.inria.fr/en" class="custom-link">INRIA</a> (Institut National de Recherche en Informatique et en Automatique) Rennes. I worked also as an A/Prof. with Electronics Department at <a href="https://www.insa-rennes.fr/" class="custom-link">INSA</a> (Institut National des Sciences Appliquées) Rennes, before joining Télécom Paris in 2026. 
 
+News
+======
+
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
