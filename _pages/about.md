@@ -14,7 +14,7 @@ I received the Engineering degree and the Ph.D. degree from <a href="https://www
 
 News
 ======
-- Nov. 2026, our collaborative research project with A/Prof. Xi WANG (École Polytechnique, LIX) "ECOGEM: Extreme video COmpression with low complexity GEneration Modelling" is accepted and financed by Hi!PARIS. Stay tuned for upcoming opportunities!
+- Nov. 2026, our collaborative research project with A/Prof. Xi WANG (École Polytechnique, LIX) "ECOGEM: Extreme video COmpression with low complexity GEneration Modelling" is funded by Hi!PARIS. Stay tuned for upcoming opportunities!
 - Sept. 2026, I start a new chapiter in Télécom Paris as A/Prof. 
 
 <!--
